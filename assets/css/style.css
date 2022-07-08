@@ -1,0 +1,127 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* HEADER */
+
+header {
+    background-color: #F6CC95;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+    height: 100vh;
+    width: 100%;
+}
+
+.knight {
+    display: grid;
+    grid-area: 3/3/4/4;
+}
+
+.brown1 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 1/2/2/3;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown2 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 1/4/2/5;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown3 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 2/1/3/2;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown4 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 2/3/3/4;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown5 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 2/5/3/6;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown6 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 3/2/4/3;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown7 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 3/4/4/5;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown8 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 4/1/5/2;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown9 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 4/3/5/4;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown10 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 4/5/5/6;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown11 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 5/2/6/3;
+    justify-content: center;
+    align-content: center;
+}
+
+.brown12 {
+    background-color: #873313;
+    display: grid;
+    grid-area: 5/4/6/5;
+    justify-content: center;
+    align-content: center;
+}
+
+
+/* FIN DU HEADER */
+
+
+
+
+
+
+
+
